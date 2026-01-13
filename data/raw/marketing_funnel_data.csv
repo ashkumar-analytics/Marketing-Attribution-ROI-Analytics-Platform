@@ -1,0 +1,9 @@
+user_id,channel,campaign,impressions,clicks,conversions,revenue,cost
+U001,SEO,Organic_Search,1200,120,3,45000,8000
+U002,Paid Search,Google_Ads,900,90,2,30000,12000
+U003,Social,LinkedIn_Ads,700,60,1,15000,10000
+U004,Email,Nurture_Campaign,500,80,4,60000,6000
+U005,SEO,Organic_Search,1000,110,2,28000,7000
+U006,Paid Search,Google_Ads,850,95,3,50000,15000
+U007,Social,LinkedIn_Ads,600,55,1,18000,9000
+U008,Email,Nurture_Campaign,450,70,3,48000,5000
